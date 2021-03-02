@@ -2,7 +2,7 @@
   "name": "bud-fetch",
   "version": "1.0.0",
   "description": "Fetch data, filter it, test it, and then bundle. tested using node v10.15.3 (npm v6.4.1)",
-  "main": "index.js",
+  "main": "src/index.jsx",
   "scripts": {
     "test": "jest",
     "dev": "webpack serve --open --hot --mode development",

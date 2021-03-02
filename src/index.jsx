@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from "react";
+import React from "react";
 import ReactDOM from "react-dom";
 import TransactionPage from './pages/TransactionPage/TransactionPage';
 import { createGlobalStyle } from 'styled-components'
