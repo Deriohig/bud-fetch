@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches snapshot 1`] = `
+<div
+  className="sc-bdfBwQ ffpIeZ"
+  data-testid="Notification"
+  kind="error"
+  onClick={[Function]}
+>
+  <h5
+    className="sc-gsTCUz hzcwwD"
+  >
+    Title
+  </h5>
+  <p
+    className="sc-dlfnbm cXSvgV"
+  >
+    message
+  </p>
+</div>
+`;

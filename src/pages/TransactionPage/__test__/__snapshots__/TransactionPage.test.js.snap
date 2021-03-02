@@ -1,0 +1,24 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches snapshot 1`] = `
+<section
+  className="sc-jrAGrp kNgSmL"
+  data-testid="TransactionPage"
+>
+  <h3
+    className="sc-pFZIQ iACuQP"
+  >
+    Smallest transactions
+  </h3>
+  <p
+    className="sc-bdfBwQ knDrYM"
+    data-testid="SkeletonState"
+    width="30%"
+  />
+  <p
+    className="sc-bdfBwQ cgmrII"
+    data-testid="SkeletonState"
+    width="70%"
+  />
+</section>
+`;

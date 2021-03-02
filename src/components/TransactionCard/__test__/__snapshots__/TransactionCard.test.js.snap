@@ -1,0 +1,33 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches snapshot 1`] = `
+<div
+  className="sc-bdfBwQ gppxLM"
+  data-testid="TransactionCard"
+>
+  <div
+    className="sc-hKgILt fscPhC"
+  >
+    <p
+      className="sc-dlfnbm kOsDjC"
+    >
+      Food
+    </p>
+    <p
+      className="sc-dlfnbm kOsDjC"
+    >
+      18/02/1993
+    </p>
+  </div>
+  <span
+    className="sc-gsTCUz jfeqWp"
+  >
+    Chocolate
+  </span>
+  <p
+    className="sc-eCssSg jgkwoT"
+  >
+    81.43USD
+  </p>
+</div>
+`;
