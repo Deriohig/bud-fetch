@@ -27,7 +27,7 @@ exports[`matches snapshot 1`] = `
   <p
     className="sc-eCssSg jgkwoT"
   >
-    81.43USD
+    81.43 USD
   </p>
 </div>
 `;
