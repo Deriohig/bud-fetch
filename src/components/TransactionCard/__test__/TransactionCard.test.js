@@ -8,7 +8,7 @@ import renderer from 'react-test-renderer'
 const props = {
     date: '18/02/1993',
     currency: 'USD',
-    value: '81.43',
+    value: 81.43,
     description: 'Chocolate',
     category: 'Food'
 }

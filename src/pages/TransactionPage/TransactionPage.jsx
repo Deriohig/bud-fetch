@@ -53,7 +53,7 @@ const TransactionPage = () => {
             setLoading(false);
         } catch (error) {
             setLoading(false);
-            setNotification({ title: error.title, kind: 'error', message: error.message });
+            setNotification({ title: error.title ? error.title : 'An error occured', kind: 'error', message: error.message });
             setShowNotification(error.message);
         }
     };
